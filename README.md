@@ -14,9 +14,6 @@ Robotics | Computer Vision | Embedded Systems
 ### 🤖 Robotics Control System
 Embedded control and localization algorithms for autonomous robots.
 
-### 👁 Computer Vision Pipelines
-Feature matching and localization experiments using OpenCV and ROS.
-
 ### 🎮 Domino Game (Godot)
 Multiplayer domino game developed in Godot.
 
