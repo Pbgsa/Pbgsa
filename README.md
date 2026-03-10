@@ -1,16 +1,27 @@
-## Hi there 👋
+# Pedro Basílio
 
-<!--
-**Pbgsa/Pbgsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student @ UFPE  
+Robotics | Computer Vision | Embedded Systems
 
-Here are some ideas to get you started:
+## Interests
+- Autonomous Systems
+- Computer Vision
+- Robotics
+- Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 🤖 Robotics Control System
+Embedded control and localization algorithms for autonomous robots.
+
+### 👁 Computer Vision Pipelines
+Feature matching and localization experiments using OpenCV and ROS.
+
+### 🎮 Domino Game (Godot)
+Multiplayer domino game developed in Godot.
+
+### 📊 Data Analysis Projects
+Machine learning experiments and dataset analysis using Python and Jupyter.
+
+## Tech Stack
+C++ | Python | ROS | OpenCV | Docker | Git
