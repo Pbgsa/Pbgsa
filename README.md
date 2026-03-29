@@ -11,11 +11,39 @@ Robotics | Computer Vision | Embedded Systems
 
 ## Featured Projects
 
-### 🎮 Domino Game (Godot)
-Multiplayer domino game developed in Godot.
+### 🤖 Robotics Systems
+- Control and localization for autonomous robots  
+- PID control and sensor integration (encoders, IMU)
 
-### 📊 Data Analysis Projects
-Machine learning experiments and dataset analysis using Python and Jupyter.
+### 👁 Computer Vision & Data
+- Image processing and computer vision experiments  
+- Data analysis and machine learning with Python  
+
+### 📱 Android Task Tracker
+- Kotlin + MVVM + Room  
+- Focus on architecture and clean code  
+
+### 🎮 Domino Game
+- Multiplayer game built with Godot  
+
+### 🎵 Batucast
+- Full-stack music streaming project  
+- Frontend, backend and testing  
+
+---
 
 ## Tech Stack
-C++ | Python | ROS | OpenCV | Docker | Git
+
+**Languages**  
+C++ | Python | Java | Kotlin  
+
+**Tools**  
+ROS | OpenCV | Docker | Git | Linux  
+
+---
+
+## Current Focus
+
+- Data Engineering  
+- Software Architecture  
+- Problem Solving (Algorithms)
