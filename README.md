@@ -11,9 +11,6 @@ Robotics | Computer Vision | Embedded Systems
 
 ## Featured Projects
 
-### 🤖 Robotics Control System
-Embedded control and localization algorithms for autonomous robots.
-
 ### 🎮 Domino Game (Godot)
 Multiplayer domino game developed in Godot.
 
